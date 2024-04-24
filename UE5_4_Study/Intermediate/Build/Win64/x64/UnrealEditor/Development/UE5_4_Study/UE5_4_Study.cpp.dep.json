@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_c++\\ue5.4\\ue5_4_study\\source\\ue5_4_study\\ue5_4_study.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_c++\\ue5.4\\ue5_4_study\\intermediate\\build\\win64\\x64\\ue5_4_studyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5_c++\\ue5.4\\ue5_4_study\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5_4_study\\definitions.ue5_4_study.h",
+            "d:\\ue5_c++\\ue5.4\\ue5_4_study\\source\\ue5_4_study\\ue5_4_study.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

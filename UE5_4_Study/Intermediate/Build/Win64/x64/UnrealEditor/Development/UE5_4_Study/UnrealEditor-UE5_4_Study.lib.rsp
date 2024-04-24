@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5_4_Study.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE5_C++\UE5.4\UE5_4_Study\Intermediate\Build\Win64\x64\UE5_4_StudyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UE5_C++\UE5.4\UE5_4_Study\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_4_Study\UE5_4_Study.cpp.obj"
+"D:\UE5_C++\UE5.4\UE5_4_Study\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_4_Study\Default.rc2.res"
+/OUT:"D:\UE5_C++\UE5.4\UE5_4_Study\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_4_Study\UnrealEditor-UE5_4_Study.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5_C++\\UE5.4\\UE5_4_Study\\Source\\UE5_4_Study\\UE5_4_Study.Build.cs",
+		"D:\\UE5_C++\\UE5.4\\UE5_4_Study\\Source\\UE5_4_Study.Target.cs",
+		"D:\\UE5_C++\\UE5.4\\UE5_4_Study\\Source\\UE5_4_StudyEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.0"
+}
